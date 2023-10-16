@@ -8,7 +8,7 @@ namespace Tyuiu.DubrovinSN.Sprint3.Task0.V19.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void GetSumSeries()
+        public void GetSumSeries()//
         {
             DataService ds = new DataService();
             int startValue = 1;

@@ -7,7 +7,7 @@ using tyuiu.cources.programming.interfaces.Sprint3;
 
 namespace Tyuiu.DubrovinSN.Sprint3.Task0.V19.Lib
 {
-    public class DataService : ISprint3Task0V19
+    public class DataService : ISprint3Task0V19//
     {
         public double GetSumSeries(int startValue, int stopValue)
         {
